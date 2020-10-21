@@ -1,0 +1,9 @@
+20:59:50 **** Build of configuration Debug for project asd ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/ST/STM32CubeIDE_1.4.0/STM32CubeIDE/jre/bin/server;C:/ST/STM32CubeIDE_1.4.0/STM32CubeIDE/jre/bin;C:/ST/STM32CubeIDE_1.4.0/STM32CubeIDE/jre/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\MATLAB\R2020a\runtime\win64;C:\Program Files\MATLAB\R2020a\bin;C:\Program Files\PuTTY\;C:\Program Files (x86)\Ghdl\Bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\39389\AppData\Local\Microsoft\WindowsApps;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\intelFPGA_lite\18.1\modelsim_ase\win32aloem;C:\intelFPGA\18.1\modelsim_ase\win32aloem;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE]
+
+20:59:50 Build Failed. 1 errors, 0 warnings. (took 83ms)
+
